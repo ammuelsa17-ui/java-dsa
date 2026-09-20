@@ -28,8 +28,21 @@ Push, Pop, Peek operations take O(1) time.
 
 ---
 
+## LeetCode Practice
+
+| # | Problem | Difficulty | LeetCode | Solution | Status |
+|---|---|---|---|---|---|
+| 1 | Valid Parentheses | Easy | [Problem](https://leetcode.com/problems/valid-parentheses/) | `leetcode/ValidParentheses.java` | ⬜ Not Started |
+| 2 | Implement Queue using Stacks | Easy | [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) | `leetcode/ImplementQueueUsingStacks.java` | ⬜ Not Started |
+| 3 | Min Stack | Medium | [Problem](https://leetcode.com/problems/min-stack/) | `leetcode/MinStack.java` | ⬜ Not Started |
+
+### Progress Tracker
+- [ ] Concepts completed
+- [ ] Course assignments completed
+- [ ] LeetCode practice completed
+
 ## 📝 Personal Notes & Takeaways
 *Keep track of tricky edge cases, key insights, and learnings while solving problems for this topic.*
 
 ---
-*My solutions for this topic will be placed directly in this folder.*
+*My solutions for this topic will be placed in the respective subfolders (`concepts/`, `assignments/`, `leetcode/`).*

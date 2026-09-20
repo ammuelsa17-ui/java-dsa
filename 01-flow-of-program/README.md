@@ -26,8 +26,12 @@ Focus is on logical flow and algorithm correctness before coding.
 
 ---
 
+### Progress Tracker
+- [ ] Concepts completed
+- [ ] Course assignments completed
+
 ## 📝 Personal Notes & Takeaways
 *Keep track of tricky edge cases, key insights, and learnings while solving problems for this topic.*
 
 ---
-*My solutions for this topic will be placed directly in this folder.*
+*My solutions for this topic will be placed in the respective subfolders (`concepts/`, `assignments/`, `leetcode/`).*

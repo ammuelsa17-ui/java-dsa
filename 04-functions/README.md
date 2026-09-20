@@ -27,8 +27,19 @@ Method invocation overhead is O(1); runtime depends on the function body.
 
 ---
 
+## LeetCode Practice
+
+| # | Problem | Difficulty | LeetCode | Solution | Status |
+|---|---|---|---|---|---|
+| 1 | Power of Two | Easy | [Problem](https://leetcode.com/problems/power-of-two/) | `leetcode/PowerOfTwo.java` | ⬜ Not Started |
+
+### Progress Tracker
+- [ ] Concepts completed
+- [ ] Course assignments completed
+- [ ] LeetCode practice completed
+
 ## 📝 Personal Notes & Takeaways
 *Keep track of tricky edge cases, key insights, and learnings while solving problems for this topic.*
 
 ---
-*My solutions for this topic will be placed directly in this folder.*
+*My solutions for this topic will be placed in the respective subfolders (`concepts/`, `assignments/`, `leetcode/`).*

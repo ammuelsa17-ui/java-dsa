@@ -66,10 +66,41 @@ Java Basics ──► Searching & Sorting ──► Recursion & Backtracking ─
 
 ---
 
+## LeetCode Progress
+
+| Topic | Planned | Solved | Remaining |
+|---|---|---|---|
+| [`01-flow-of-program`](./01-flow-of-program/) | 0 | 0 | 0 |
+| [`02-java-basics`](./02-java-basics/) | 0 | 0 | 0 |
+| [`03-conditionals-loops`](./03-conditionals-loops/) | 2 | 0 | 2 |
+| [`04-functions`](./04-functions/) | 1 | 0 | 1 |
+| [`05-arrays`](./05-arrays/) | 3 | 0 | 3 |
+| [`06-searching`](./06-searching/) | 3 | 0 | 3 |
+| [`07-sorting`](./07-sorting/) | 3 | 0 | 3 |
+| [`08-strings`](./08-strings/) | 3 | 0 | 3 |
+| [`09-patterns`](./09-patterns/) | 0 | 0 | 0 |
+| [`10-recursion`](./10-recursion/) | 2 | 0 | 2 |
+| [`11-bitwise`](./11-bitwise/) | 3 | 0 | 3 |
+| [`12-math`](./12-math/) | 2 | 0 | 2 |
+| [`13-complexity`](./13-complexity/) | 0 | 0 | 0 |
+| [`14-oop`](./14-oop/) | 0 | 0 | 0 |
+| [`15-linked-list`](./15-linked-list/) | 4 | 0 | 4 |
+| [`16-stack-queue`](./16-stack-queue/) | 3 | 0 | 3 |
+| [`17-trees`](./17-trees/) | 4 | 0 | 4 |
+| [`18-heaps`](./18-heaps/) | 2 | 0 | 2 |
+| [`19-hashmap`](./19-hashmap/) | 3 | 0 | 3 |
+| [`20-sliding-window-two-pointers`](./20-sliding-window-two-pointers/) | 3 | 0 | 3 |
+| [`21-graphs`](./21-graphs/) | 3 | 0 | 3 |
+| [`22-dynamic-programming`](./22-dynamic-programming/) | 3 | 0 | 3 |
+| [`23-greedy`](./23-greedy/) | 2 | 0 | 2 |
+| [`24-tries`](./24-tries/) | 2 | 0 | 2 |
+| **Total** | **51** | **0** | **51** |
+
 ## 🛠️ How I Organize My Solutions
-Each topic folder contains:
-- `README.md`: Concepts breakdown, problem list, and notes.
-- Java source files (e.g. `ArrayBasics.java`, `BinarySearch.java`, `Assignment01.java`).
+Each topic folder contains a `README.md` guide and structured subfolders:
+- `concepts/`: Code implementations and practice written while learning concepts.
+- `assignments/`: Course homework and problem set solutions.
+- `leetcode/`: Solutions for LeetCode practice problems.
 
 ---
 

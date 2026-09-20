@@ -28,8 +28,21 @@ Bitwise operations execute in O(1) time at CPU level.
 
 ---
 
+## LeetCode Practice
+
+| # | Problem | Difficulty | LeetCode | Solution | Status |
+|---|---|---|---|---|---|
+| 1 | Single Number | Easy | [Problem](https://leetcode.com/problems/single-number/) | `leetcode/SingleNumber.java` | ⬜ Not Started |
+| 2 | Number of 1 Bits | Easy | [Problem](https://leetcode.com/problems/number-of-1-bits/) | `leetcode/NumberOf1Bits.java` | ⬜ Not Started |
+| 3 | Counting Bits | Easy | [Problem](https://leetcode.com/problems/counting-bits/) | `leetcode/CountingBits.java` | ⬜ Not Started |
+
+### Progress Tracker
+- [ ] Concepts completed
+- [ ] Course assignments completed
+- [ ] LeetCode practice completed
+
 ## 📝 Personal Notes & Takeaways
 *Keep track of tricky edge cases, key insights, and learnings while solving problems for this topic.*
 
 ---
-*My solutions for this topic will be placed directly in this folder.*
+*My solutions for this topic will be placed in the respective subfolders (`concepts/`, `assignments/`, `leetcode/`).*

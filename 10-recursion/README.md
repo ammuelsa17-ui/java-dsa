@@ -28,8 +28,20 @@ Recursion Space: O(H) call stack depth | Time: Depends on branching factor (e.g.
 
 ---
 
+## LeetCode Practice
+
+| # | Problem | Difficulty | LeetCode | Solution | Status |
+|---|---|---|---|---|---|
+| 1 | Subsets | Medium | [Problem](https://leetcode.com/problems/subsets/) | `leetcode/Subsets.java` | ⬜ Not Started |
+| 2 | Permutations | Medium | [Problem](https://leetcode.com/problems/permutations/) | `leetcode/Permutations.java` | ⬜ Not Started |
+
+### Progress Tracker
+- [ ] Concepts completed
+- [ ] Course assignments completed
+- [ ] LeetCode practice completed
+
 ## 📝 Personal Notes & Takeaways
 *Keep track of tricky edge cases, key insights, and learnings while solving problems for this topic.*
 
 ---
-*My solutions for this topic will be placed directly in this folder.*
+*My solutions for this topic will be placed in the respective subfolders (`concepts/`, `assignments/`, `leetcode/`).*
